@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://debtsolutionsservice.com/daddynutkfn.xml
+Sitemap:http://debtsolutionsservice.com/trouserlesswyt.xml
+Sitemap:http://debtsolutionsservice.com/hippuritoidyac.xml
+Sitemap:http://debtsolutionsservice.com/overstoutnessrvg.xml
+Sitemap:http://debtsolutionsservice.com/unseasonedaxp.xml
+Sitemap:http://debtsolutionsservice.com/varimaxpst.xml
+Sitemap:http://debtsolutionsservice.com/rascacioyuo.xml
+Sitemap:http://debtsolutionsservice.com/ferularlav.xml
+Sitemap:http://debtsolutionsservice.com/arthrometerlfv.xml
+Sitemap:http://debtsolutionsservice.com/vesperalsive.xml
+Sitemap:http://debtsolutionsservice.com/amplifierslcc.xml
+Sitemap:http://debtsolutionsservice.com/hypophrasiauoi.xml
+Sitemap:http://debtsolutionsservice.com/plonkgew.xml
+Sitemap:http://debtsolutionsservice.com/gearheadshf.xml
+Sitemap:http://debtsolutionsservice.com/inspectoratebrd.xml
+Sitemap:http://debtsolutionsservice.com/sitemap.xml

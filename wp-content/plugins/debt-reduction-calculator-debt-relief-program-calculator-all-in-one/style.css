@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+.cuswidth { width:101px !important; }
+.clearIt{
+	width:100%;
+	height:2px;
+	clear:both;
+}
+#wc_debt_mainWrapper p{
+	margin:0px;
+	padding:20px;
+	padding-top:5px;
+}
+#wc_debt_mainWrapper{
+	max-width:580px;
+	padding-left:10px;
+	padding-right:10px;
+	position:relative;
+	border:1px solid #000;
+	moz-border-radius:10px;
+	border-radius:10px;
+	margin:auto;
+	border: 1px solid #DDDDDD;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 25px #999999 inset;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+#wc_debt_mainWrapper input[type="text"]{
+	width:80px;
+	height:25px;
+	border:1px solid #00F;
+	moz-border-radius:5px;
+	padding:2px;
+	border-radius:5px;
+	}
+#wc_debt_mainWrapper h1{
+	font-size:22px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	text-align:center;
+	color:#83AC0E;
+	padding-top:15px;
+	padding-bottom:10px;
+	margin:0px;
+	background:transparent;
+}
+#wc_debt_mainWrapper span{
+	font-size:10px;
+}
+#wc_debt_mainWrapper #targetchart {
+    width: 500px;
+    height: 375px;
+    padding: 4px;
+    border: 1px solid #dddddd;
+    background: #eeeeee
+}
+#wc_debt_mainWrapper #targetchart h3 {
+    text-align: center;
+    margin: 0;	
+}
+#wc_debt_mainWrapper #graph_here {
+	width:510px;
+	margin:auto;
+	margin-top:25px;
+	margin-bottom:15px; 
+}
+#wc_debt_mainWrapper #calcu img{
+	margin-top:-16px; 
+	margin-bottom:15px;
+}
+#wc_debt_mainWrapper #targetchart{
+	display:inline-block;
+	margin:auto;
+}
+#wc_debt_mainWrapper #myDiv{
+	width:100%;
+	height:100%;
+	display:inline-block;
+}
+#wc_debt_mainWrapper #tableWrap{
+	font-size:10px; 
+	font-family:Tahoma, Geneva, sans-serif;
+}
+#wc_debt_mainWrapper #tableWrap td {
+	border-left:1px solid #CCC; 
+	text-align:center;
+}
+#wc_debt_mainWrapper #tableWrap .color{
+	color:#fff;
+}
+#wc_debt_mainWrapper #tableWrap .topRow{
+	border: medium none transparent; 
+	text-align:center; 
+	background: none repeat scroll 0% 0% transparent; 
+	font-weight: bold; 
+	font-size: 130%;
+}
+#wc_debt_mainWrapper #tableWrap .padding{
+	padding-left:13px;
+}
+#wc_debt_mainWrapper #tableWrap .paddingMore{
+	padding-left:33px;
+}
+#wc_debt_mainWrapper #tableWrap #time3{
+	width:140px;
+}
+.clearIt {
+	clear:both;
+	width:100%; 
+}
+.currencyinput {
+    border: 0px inset #ccc;
+}
+.currencyinput input {
+    border: 0px !important;
+}
